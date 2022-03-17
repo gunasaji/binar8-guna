@@ -4,6 +4,7 @@ class Register extends Component {
   render() {
     return (
       <div>
+        
         <h1>Register Player baru</h1>
         <form action="/players" method="post">
           
